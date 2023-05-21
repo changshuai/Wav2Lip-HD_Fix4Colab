@@ -1,4 +1,4 @@
-export filename=mona
+export filename=ai
 export input_video=input_videos
 export input_audio=input_audios/ai.wav
 export frames_wav2lip=frames_wav2lip
